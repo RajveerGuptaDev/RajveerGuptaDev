@@ -3,7 +3,8 @@
 - 🌟 Flutter Developer | 🚀 Founder of App Dost | 📹 Video Editor | ☕ Java Programmer
 
 - 🌱 I’m currently learning multiple skills like flutter , Ethical Hacking, Spanish, and many other skills
-  -You can reach me through my Email and My social Accounts .
+   --
+  You can reach me through my Email and My social Accounts .
 
 
 
