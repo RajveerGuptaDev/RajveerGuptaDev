@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RajveerGuptaDev
 - Welcome to my GitHub profile! I’m Rajveer Gupta, a versatile developer and creative professional with a passion for technology and innovation
-- 🌟 Flutter Developer | 📹 Video Editor | ☕ Java Programmer
+- 🌟 Flutter Developer | 📹 Video Editor | ☕ Python Programmer
   --
 
 - 🌱 I’m currently learning multiple skills like flutter , Ethical Hacking, Spanish, and many other skills
